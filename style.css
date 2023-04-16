@@ -48,14 +48,14 @@ body{
 }
 @media all and (max-width: 768px){
     .tabs{
-        width: 100%   
+        width: 100%
     }
     .tab .heading {
         font-size: 32px
     }
     .tab .icons{
         width: 22px;
-        height: 24px   
+        height: 24px
     }
     .tab .icons img{
         width: 100%
